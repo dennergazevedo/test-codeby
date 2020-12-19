@@ -4,4 +4,6 @@ Olá, o teste foi desenvolvido em ReactJS, com isso para executar basta clonar e
 
     yarn && yarn start
 
-O site está responsivo e desenvolvido com Typescript.
+O site está responsivo e desenvolvido em Typescript.
+
+[Preview Deploy](https://test-codeby.vercel.app)
