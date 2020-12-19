@@ -23,7 +23,7 @@ export const Banner = styled.div`
   width: 100%;
   min-height: 90vh;
   background-image: url(${Background});
-  background-size: auto 100%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
 
   img {
